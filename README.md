@@ -80,6 +80,6 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0110/101120_06423d11_1829822.png "5.PNG")
 
 
-
+* [gitee版本](https://gitee.com/NFUNM172018423/Museum-half)
 
 * [Github下载链接](https://github.com/172018423/-)
